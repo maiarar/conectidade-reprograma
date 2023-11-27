@@ -1,8 +1,5 @@
-<a href="https://aimeos.org/">
-    <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
-</a>
 # ConectIdade: a tecnologia para todas as idades!
-Repo com o conteúdo dos cursos de tech para idosos, o ConectIdade.
+Repositório com o conteúdo dos cursos de tecnologia para pessoas idosas, o ConectIdade.
 
 # 📚 Índice
 - [ConectIdade: a tecnologia para todas as idades!](#conectidade-a-tecnologia-para-todas-as-idades)
@@ -178,7 +175,7 @@ Repo com o conteúdo dos cursos de tech para idosos, o ConectIdade.
 - Qual o impacto das fake news
 - Como identificar fake news
 - Como denunciar fake news
-- Quais os golpes mais comuns na internet para idosos
+- Quais os golpes mais comuns na internet para pessoas idosas
     - Golpe do falso sequestro
     - Golpe do falso funcionário de banco / boleto / empréstimo
     - Golpe do falso email / site
